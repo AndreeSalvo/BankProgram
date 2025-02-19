@@ -1,5 +1,4 @@
-#Python Banking Program - Andree Credit Union Bank
-Description
+# Python Banking Program
 This is a simple command-line banking application that allows users to:
 
 - Check their account balance
