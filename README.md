@@ -25,6 +25,5 @@ Future Enhancements
 - Implement user authentication (PIN/password)
 - Introduce interest calculations for savings accounts
 
-Author
-Andree Salvo
-Cybersecurity Student at SNHU
+Author:
+Andree Salvo|Cybersecurity Student at SNHU
